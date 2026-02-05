@@ -13,6 +13,8 @@ reachable: "[Diaryx Spec Github Repo](https://github.com/adammharris/diaryx-spec
 copying: "[Creative Commons Attribution-Sharealike 4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
 version: v0.8.0
 part_of: "[Diaryx](<diaryx.md>)"
+attachments:
+  - '[Diaryx Specification Example Image.png](<Diaryx Specification Example Image.png>)'
 ---
 
 # Diaryx Writing Specification
