@@ -14,7 +14,7 @@ copying: "[Creative Commons Attribution-Sharealike 4.0](https://creativecommons.
 version: v0.8.0
 part_of: "[Diaryx](<diaryx.md>)"
 attachments:
-  - '[Diaryx Specification Example Image.png](<Diaryx Specification Example Image.png>)'
+  - '[Diaryx Specification Example Image.png](/Diaryx Specification Example Image.png)'
 ---
 
 # Diaryx Writing Specification
@@ -56,7 +56,7 @@ All of this information is clear and understandable even to someone who only has
 
 But what if I don't want to read boring plain text? Fortunately, because Diaryx uses structured markup and metadata, it is very easy to convert it to more visually pleasing formats:
 
-![](<Diaryx Specification Example Image.png>)
+![](/Diaryx%20Specification%20Example%20Image.png)
 
 ## 0.2 Purpose
 

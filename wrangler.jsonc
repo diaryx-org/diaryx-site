@@ -3,7 +3,7 @@
   "name": "diaryx-site",
   "compatibility_date": "2024-01-01",
   "build": {
-    "command": "git clone https://github.com/diaryx-org/diaryx-site-template.git _template && cd _template && bun install && DIARYX_CONTENT_PATH=.. bun run build && mv dist ../"
+    "command": "git clone https://github.com/diaryx-org/diaryx-site-template.git _template && cd _template && bun install && DIARYX_CONTENT_PATH=.. bun run build && mv dist ../ && cd .. && cp -r public/* dist/"
   },
   "assets": {
     "directory": "./dist"
