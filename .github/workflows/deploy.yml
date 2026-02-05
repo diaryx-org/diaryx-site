@@ -5,7 +5,7 @@ on:
 
 jobs:
   deploy:
-    uses: adammharris/diaryx-site-template/.github/workflows/build.yml@main
+    uses: diaryx-org/diaryx-site-template/.github/workflows/build.yml@main
     with:
       deploy-target: cloudflare-workers
       cloudflare-project-name: diaryx-org
