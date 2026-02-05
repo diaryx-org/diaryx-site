@@ -1,0 +1,14 @@
+name: Deploy to Cloudflare
+on:
+  push:
+    branches: [main]
+
+jobs:
+  deploy:
+    uses: adammharris/diaryx-site/.github/workflows/build.yml@main
+    with:
+      deploy-target: cloudflare-workers
+      cloudflare-project-name: diaryx-org
+    secrets:
+      CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+      CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
