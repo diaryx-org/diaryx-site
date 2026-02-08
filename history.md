@@ -3,7 +3,6 @@ title: The history of Diaryx
 author: Adam Harris
 audience:
   - public
-  - interested in learning how Diaryx works
 part_of: "[Diaryx](<diaryx.md>)"
 ---
 
@@ -11,7 +10,7 @@ part_of: "[Diaryx](<diaryx.md>)"
 
 # The History of Diaryx
 
-Let's start at the beginning.
+Since the very beginning, people have kept records to pass on wisdom and memories to their descendants. These records could be anything: cave paintings, clay tablets, papyrus, ink and quill, printed paper... but now we have a marvelous information technology: computers!
 
 Computers store information as ones and zeros. A long time ago, people invented a code called ASCII that could translate sequences of ones and zeros to text.
 
@@ -87,6 +86,7 @@ date: 2025-10-10
 # My document
 
 Welcome to my document!
+
 ```
 
 Notice the frontmatter at the beginning is surrounded by **three dashes** (`---`). Those are called **delimiters**. In between the delimiters is data in YAML format. It is very simple; you can store whatever kind of data you want!
@@ -98,5 +98,9 @@ Historically, YAML frontmatter in markdown files was popularized by a common web
 ## How Diaryx uses frontmatter
 
 Diaryx has a [specification](diaryx-writing-specification) that defines specifically what keys it recognizes in YAML frontmatter.
+
+...
+
+Uh oh, the rest of the history page is missing!
 
 (Under construction! Check back later for a completed page.)
