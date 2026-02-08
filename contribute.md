@@ -3,23 +3,20 @@ title: Contribute to Diaryx
 author: Adam Harris
 audience:
   - public
-  - interested in Diaryx
-  - interested in preserving family records
-  - relevant technical or other experience
 created: 2025-10-16
-updated: 2025-10-26
+updated: 2026-02-07T19:03:25-07:00
 part_of: "[Diaryx](<diaryx.md>)"
 ---
 
 # Contribute to Diaryx
 
-Thank you for reading about Diaryx! This project is in early stages. Here are some things we are working on:
+Thank you for your interest in Diaryx!
 
-- Note-taking apps for every platform
-- A declarative writing format designed to extend the significance and longevity of personal writings.
-- ARK PID scaffolding
+The Diaryx team is applying to Sandbox: a year-long startup accelerator at Brigham Young University. If you are at BYU or nearby and wish to join the Diaryx Sandbox team as a founder, please email Adam at [adam@diaryx.org](mailto:adam@diaryx.org)!
 
-Please email us at [contact@diaryx.org](mailto:contact@diaryx.org) if you can offer help or feedback of any kind.
+If you wish to support Diaryx in other ways, thank you! We are working on setting up finances. In a few weeks, you will be able to support Diaryx by subscribing to a paid plan, which will offer you cloud storage, sync, and website publish functionality in return for your generous support.
+
+In the meanwhile, please email us at [contact@diaryx.org](mailto:contact@diaryx.org) if you can offer help or feedback of any kind.
 
 ## Learn
 

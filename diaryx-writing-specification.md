@@ -19,6 +19,9 @@ attachments:
 
 # Diaryx Writing Specification
 
+> ***Important Note***
+> This specification has not been updated since the release of the [new Diaryx client](https://app.diaryx.org). It remains mostly accurate, but several features here are either unimplemented or deprecated. Please be patient as an update is in the works!
+
 The Diaryx Writing Format is a specific method of digital writing that makes the writing process easier and more effective. It is meant to be both human-readable and machine-parseable.
 
 ## 0.1 Example

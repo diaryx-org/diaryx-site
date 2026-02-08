@@ -4,18 +4,20 @@ author: Adam Harris
 created: 2025-08-26T20:43:49+00:00
 updated: 2025-10-16T18:40:30+06:00
 audience:
-  - public
-  - Digital journal users
-  - Markdown users
+- public
+- Digital journal users
+- Markdown users
 format: Diaryx v0.8.0
-reachable: "[Diaryx Website](https://www.diaryx.org)"
+reachable: '[Diaryx Website](https://www.diaryx.org)'
 contents:
-  - '[What is Diaryx?](/what-is-diaryx.md)'
-  - '[Help us bring Diaryx to life](/contribute.md)'
-  - '[Read the specification](/diaryx-writing-specification.md)'
-  - '[History](/history.md)'
+- '[Help us bring Diaryx to life](/contribute.md)'
+- '[History](/history.md)'
+- '[Information for Sandboxers](/information-for-sandboxers.md)'
+- '[Read the specification](/diaryx-writing-specification.md)'
+- '[What is Diaryx?](/what-is-diaryx.md)'
 attachments:
-  - diaryx-icon.svg
+- diaryx-icon.svg
+- wrangler.jsonc
 ---
 
 <div style="display: flex; align-items: center; gap: 2rem; margin-bottom: 2rem;">
@@ -30,4 +32,6 @@ Diaryx is writing software that has unique features, such as audience filtering.
 - [What is Diaryx?](/what-is-diaryx.md)
 - [Help us bring Diaryx to life](/contribute.md)
 - [Read the specification](/diaryx-writing-specification.md)
-- [Use the web app](https://diaryx-org.github.io/diaryx)
+- [Use the web app](https://app.diaryx.org)
+
+Are you a Sandboxer? [Click here!](/information-for-sandboxers.md)
