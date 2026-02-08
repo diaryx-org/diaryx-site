@@ -20,7 +20,7 @@ This is most important. Diaryx is meant to be a meaningful project. I want to fe
 
 ### 2. **You work well with me.**
 
-Meet up with me in person and see if we work well together! Ideally, I think I would be able to work with any well-meaning and hardworking person. But Sandbox is a once-in-a-lifetime opportunity, and both of us deserve to work with someone we enjoy working with. So [message me on Slack](https://sandboxapplicants.slack.com/team/U08DRBSRWGY) or [email me](adam@diaryx.org) to arrange a meetup!
+Meet up with me in person and see if we work well together! Ideally, I think I would be able to work with any well-meaning and hardworking person. But Sandbox is a once-in-a-lifetime opportunity, and both of us deserve to work with someone we enjoy working with. So [message me on Slack](https://sandboxapplicants.slack.com/team/U08DRBSRWGY) or [email me](mailto:adam@diaryx.org) to arrange a meetup!
 
 ### 3. **You are willing to work hard (and have a healthy work-life balance).**
 
@@ -38,4 +38,4 @@ If you are considering Sandbox, you are probably willing to work hard. I'll just
 Let's make this happen! The Hackathon is right around the corner!
 
 - [Message me on Slack](https://sandboxapplicants.slack.com/team/U08DRBSRWGY)
-- [Email me](adam@diaryx.org)
+- [Email me](mailto:adam@diaryx.org)

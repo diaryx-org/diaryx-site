@@ -9,6 +9,8 @@ updated: 2026-02-07T19:05:30-07:00
 part_of: "[Diaryx](<diaryx.md>)"
 ---
 
+[<- Home](diaryx.md)
+
 # What is Diaryx?
 
 Diaryx is writing software designed with a unique philosophy: to be a digital "brass plates".

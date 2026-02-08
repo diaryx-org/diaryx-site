@@ -7,6 +7,8 @@ audience:
 part_of: "[Diaryx](<diaryx.md>)"
 ---
 
+[<- Home](diaryx.md)
+
 # The History of Diaryx
 
 Let's start at the beginning.

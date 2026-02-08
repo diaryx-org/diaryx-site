@@ -17,6 +17,8 @@ attachments:
   - '[Diaryx Specification Example Image.png](/Diaryx Specification Example Image.png)'
 ---
 
+[<- Home](diaryx.md)
+
 # Diaryx Writing Specification
 
 > ***Important Note***

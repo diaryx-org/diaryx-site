@@ -8,6 +8,8 @@ updated: 2026-02-07T19:03:25-07:00
 part_of: "[Diaryx](<diaryx.md>)"
 ---
 
+[<- Home](/diaryx.md)
+
 # Contribute to Diaryx
 
 Thank you for your interest in Diaryx!
